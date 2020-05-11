@@ -23,7 +23,7 @@
 <p>My goal was to make a simple React API to pass a subject.<br>
 I wanted to learn  basics of React, Node.js and CSS.<br>
 My API search and shows food recipes .<br>
-For Recipes I used <a href="https://www.edamam.com/">Edamam</a></p>
+For Recipes I used backend API named <a href="https://www.edamam.com/">Edamam</a>.</p>
 </blockquote>
 <h2 id="screenshots">Screenshots</h2>
 <p><img src="https://i.postimg.cc/HxWXvQJT/Example.png" alt="Example.png"></p>
